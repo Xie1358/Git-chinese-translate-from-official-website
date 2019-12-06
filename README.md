@@ -24,6 +24,45 @@ Step 4. Open a Pull Request
 Pull Request是GitHub上合作的核心, 當你Pull Request, 你提出你的改變
 要求某人merge進branch中, 當你commit後,仍然可以開一個pull request和討論
 開一個 Pull Request 改變 README 步驟如下:
-點Pull Request然後點New pull request(綠色按鈕)
+1. 點Pull Request然後點New pull request(綠色按鈕)
+2. compare 選你修改的分支 可以看到和base:master差異
+3. 如果對要提交的結果感到滿意, 點Create Pull Request(綠色按鈕)
+4. 給你的pull request一個標題，並寫下簡短描述
+5. 完成後點Create pull request!(綠色按鈕)
+Tip: 你可以使用表情符號 and 圖片或gifs onto comments and Pull Requests.
+
+Step 5. Merge your Pull Request
+1. 點Merge pull request (綠色按鈕) merge 改變到 master
+2. Click Confirm merge.
+3. 如沒Conflicting , 點紫色圖案盒子裡的Delete branch按鈕
+
+
+慶祝！
+這是您在本教程中完成的工作:
+1. 創一個repository
+2. 管理一個branch
+3. 修改file和 committed changes to GitHub
+4. Opened and merged a Pull Request
+
+To learn more about the power of Pull Requests, we recommend reading the 
+GitHub flow Guide(https://guides.github.com/introduction/flow/). 
+You might also visit GitHub Explore and get involved in an Open Source project.
+其他教學 https://guides.github.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
