@@ -3,7 +3,9 @@
 專有名詞使用英文
 
 Step 1: Create a Repository
-1. 照 Step1 的圖片創一個 hello-world 的 repository
+1. 點擊你的頭像左側的 + 號, 選 New repository
+2. 照 Step1 的圖片創一個 hello-world 的 repository, 寫一段簡短描述和勾選Initialize this repository with a README
+3. 點Create repository(綠色按鈕)
 
 Step 2: Create a Branch
 
@@ -24,7 +26,7 @@ Step 3. Make and commit changes
 
 Step 4. Open a Pull Request
 
-Pull Request是GitHub上合作的核心, 當你Pull Request, 你提出你的改變
+Pull Request是GitHub上合作的核心, 當你開一個Pull Request, 你提出你的改變
 要求某人merge進branch中, 當你commit後,仍然可以開一個pull request和討論
 開一個 Pull Request 改變 README 步驟如下:
 1. 點Pull Request然後點New pull request(綠色按鈕)
