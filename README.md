@@ -15,6 +15,7 @@ Branch是讓一個repository可以被分成不同版本同時工作的方法(多
 2. 點Create branch後, 創建完成
 
 Step 3. Make and commit changes
+
 切換到readme-edits此分支後
 1. 點README.md的鉛筆圖案進行編輯
 2. 照Step 3 的圖片在 Edit file, Commit changes 都輸入一些內容
@@ -22,6 +23,7 @@ Step 3. Make and commit changes
 這些更改只對readme-edits這個分支的README file
 
 Step 4. Open a Pull Request
+
 Pull Request是GitHub上合作的核心, 當你Pull Request, 你提出你的改變
 要求某人merge進branch中, 當你commit後,仍然可以開一個pull request和討論
 開一個 Pull Request 改變 README 步驟如下:
@@ -33,6 +35,7 @@ Pull Request是GitHub上合作的核心, 當你Pull Request, 你提出你的改�
 Tip: 你可以使用表情符號 and 圖片或gifs onto comments and Pull Requests.
 
 Step 5. Merge your Pull Request
+
 1. 點Merge pull request (綠色按鈕) merge 改變到 master
 2. Click Confirm merge.
 3. 如沒Conflicting , 點紫色圖案盒子裡的Delete branch按鈕
@@ -48,6 +51,7 @@ Step 5. Merge your Pull Request
 To learn more about the power of Pull Requests, we recommend reading the 
 GitHub flow Guide(https://guides.github.com/introduction/flow/). 
 You might also visit GitHub Explore and get involved in an Open Source project.
+
 其他教學 https://guides.github.com/
 
 
