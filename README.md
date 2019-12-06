@@ -38,7 +38,7 @@ Step 5. Merge your Pull Request
 
 1. 點Merge pull request (綠色按鈕) merge 改變到 master
 2. Click Confirm merge.
-3. 如沒Conflicting , 點紫色圖案盒子裡的Delete branch按鈕
+3. 如沒Conflicting , 點紫色圖案盒子裡的Delete branch按鈕, 如有conflict, 刪除 < = > 這些符號即可
 
 
 慶祝！
